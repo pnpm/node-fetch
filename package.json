@@ -1,6 +1,6 @@
 {
-  "name": "node-fetch",
-  "version": "3.0.0-beta.9",
+  "name": "@pnpm/node-fetch",
+  "version": "1.0.0",
   "description": "A light-weight module that brings Fetch API to node.js",
   "main": "./dist/index.cjs",
   "module": "./src/index.js",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-fetch/node-fetch.git"
+    "url": "https://github.com/pnpm/node-fetch.git"
   },
   "keywords": [
     "fetch",
@@ -47,13 +47,9 @@
   "author": "David Frank",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/node-fetch/node-fetch/issues"
+    "url": "https://github.com/pnpm/node-fetch/issues"
   },
-  "homepage": "https://github.com/node-fetch/node-fetch",
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/node-fetch"
-  },
+  "homepage": "https://github.com/pnpm/node-fetch",
   "devDependencies": {
     "abort-controller": "^3.0.0",
     "abortcontroller-polyfill": "^1.5.0",
